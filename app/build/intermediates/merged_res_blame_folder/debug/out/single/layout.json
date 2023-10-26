@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/alili/.gradle/daemon/7.6.2/org.tensorflow.lite.examples.imageclassification.app-mergeDebugResources-47:/layout/activity_main.xml",
+        "source": "/home/alili/.gradle/daemon/7.6.2/org.tensorflow.lite.examples.imageclassification.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/alili/.gradle/daemon/7.6.2/org.tensorflow.lite.examples.imageclassification.app-mergeDebugResources-47:/layout/info_bottom_sheet.xml",
+        "source": "/home/alili/.gradle/daemon/7.6.2/org.tensorflow.lite.examples.imageclassification.app-main-50:/layout/info_bottom_sheet.xml"
+    },
+    {
+        "merged": "/home/alili/.gradle/daemon/7.6.2/org.tensorflow.lite.examples.imageclassification.app-mergeDebugResources-47:/layout/item_classification_result.xml",
+        "source": "/home/alili/.gradle/daemon/7.6.2/org.tensorflow.lite.examples.imageclassification.app-main-50:/layout/item_classification_result.xml"
+    },
+    {
+        "merged": "/home/alili/.gradle/daemon/7.6.2/org.tensorflow.lite.examples.imageclassification.app-mergeDebugResources-47:/layout/fragment_camera.xml",
+        "source": "/home/alili/.gradle/daemon/7.6.2/org.tensorflow.lite.examples.imageclassification.app-main-50:/layout/fragment_camera.xml"
+    },
+    {
+        "merged": "org.tensorflow.lite.examples.imageclassification.app-mergeDebugResources-47:/layout/activity_main.xml",
+        "source": "org.tensorflow.lite.examples.imageclassification.app-main-50:/layout/activity_main.xml"
+    }
+]

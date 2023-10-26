@@ -1,0 +1,404 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:2:1-48:12
+MERGED from [androidx.databinding:viewbinding:7.2.0] /home/alili/.gradle/caches/transforms-3/738593f136433df59cc577e06abf72b0/transformed/viewbinding-7.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.1] /home/alili/.gradle/caches/transforms-3/0e9d01f0f9c26989a187d7edec245162/transformed/navigation-fragment-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.5.1] /home/alili/.gradle/caches/transforms-3/eacd7dcf557f4fb23c73f5f2f672faaf/transformed/navigation-fragment-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.1] /home/alili/.gradle/caches/transforms-3/746d9642453eb3ece5b353d96eeeae15/transformed/fragment-ktx-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.1] /home/alili/.gradle/caches/transforms-3/5e8dbd73821728748893b760d722ebf9/transformed/navigation-ui-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] /home/alili/.gradle/caches/transforms-3/3f3ac6eb53465cd70238df57abc3a611/transformed/navigation-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.5.1] /home/alili/.gradle/caches/transforms-3/151d5e5096f833886f4ba7806fb697bc/transformed/navigation-ui-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] /home/alili/.gradle/caches/transforms-3/061214d475baa6a18b1c79d492b65365/transformed/navigation-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] /home/alili/.gradle/caches/transforms-3/7860481a44310f4d250aa6fd4b3bffe5/transformed/activity-ktx-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] /home/alili/.gradle/caches/transforms-3/d9c2c1976f5bd253b85cd9c964949fff/transformed/navigation-common-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.1] /home/alili/.gradle/caches/transforms-3/8137ea18800d74cbf619af36985a03de/transformed/navigation-common-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /home/alili/.gradle/caches/transforms-3/0f58530315204866343d750c8ddea196/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /home/alili/.gradle/caches/transforms-3/d73abab973a26461b2e963116a2e5c0f/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/alili/.gradle/caches/transforms-3/996bdd5fc10ce7f2ea039c277ebee572/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] /home/alili/.gradle/caches/transforms-3/52cd914cc2f425a4b4c50c2d4b7999cc/transformed/window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.material:material:1.6.1] /home/alili/.gradle/caches/transforms-3/50927a66dfb8fe910c4dee5bfe1ef325/transformed/material-1.6.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/alili/.gradle/caches/transforms-3/297366c2f72034b68692d6ea366ded29/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.camera:camera-view:1.2.0-alpha04] /home/alili/.gradle/caches/transforms-3/902442785c2fdd01268319787e5049ec/transformed/camera-view-1.2.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.4.2] /home/alili/.gradle/caches/transforms-3/8613d932535912d8077d9b02eda48a60/transformed/appcompat-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/alili/.gradle/caches/transforms-3/2f2f3e3e9f2d7ac828157032b8a9f7c9/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.1] /home/alili/.gradle/caches/transforms-3/9af98c63f9f3ea53c05ec31d234f4e5f/transformed/fragment-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] /home/alili/.gradle/caches/transforms-3/9a052c8af8fb3d16bb001df734dfdc90/transformed/activity-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/alili/.gradle/caches/transforms-3/c90060ddc521a9359fc84a557cd46457/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/alili/.gradle/caches/transforms-3/4401f8a7c023e8142d1598331d04ce51/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/alili/.gradle/caches/transforms-3/f53b1d43efb0bb8c4b470d3f1aa2b44b/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/alili/.gradle/caches/transforms-3/5685306a038d33206d60edb6bb441474/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/alili/.gradle/caches/transforms-3/503af92520fa785170f8e747896b6f2f/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha04] /home/alili/.gradle/caches/transforms-3/fb6cb5e954ca92b7ac054747292eab24/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-lifecycle:1.2.0-alpha04] /home/alili/.gradle/caches/transforms-3/59566f1f3a3b5ecb5411b31fbb48530e/transformed/camera-lifecycle-1.2.0-alpha04/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.camera:camera-core:1.2.0-alpha04] /home/alili/.gradle/caches/transforms-3/a37d35d8464561bf6ce4c0863e0df4c3/transformed/camera-core-1.2.0-alpha04/AndroidManifest.xml:17:1-36:12
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.4.0] /home/alili/.gradle/caches/transforms-3/fd61e875437f41b4416cf7d66735a559/transformed/tensorflow-lite-task-vision-0.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.9.0] /home/alili/.gradle/caches/transforms-3/b88acec3a115f08df009a5f68554f8a0/transformed/tensorflow-lite-gpu-2.9.0/AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu-delegate-plugin:0.4.0] /home/alili/.gradle/caches/transforms-3/8621cc70d751fd63c08993fb43fc651b/transformed/tensorflow-lite-gpu-delegate-plugin-0.4.0/AndroidManifest.xml:2:1-6:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/alili/.gradle/caches/transforms-3/11c222b4c3fadb006eb9c5b5f05c4705/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /home/alili/.gradle/caches/transforms-3/233417d1b522240b36d1a508e0a47822/transformed/appcompat-resources-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/alili/.gradle/caches/transforms-3/eccda38e86f4679b70b4a1b045b1e162/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/alili/.gradle/caches/transforms-3/7b3b64ee0a075a0c11b63d4d7cc4f9dd/transformed/emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/alili/.gradle/caches/transforms-3/b96f5dc51af7bb3fb0707e954b7228d2/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/alili/.gradle/caches/transforms-3/8417a89b4cbe724c8f5a685d4951f7e4/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/alili/.gradle/caches/transforms-3/5669db469e701f7645193ddd75814edb/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/alili/.gradle/caches/transforms-3/dbf7af0ea033ef22de12b35a8edc73a7/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/alili/.gradle/caches/transforms-3/146dae087e6d7e493659da0a0c407abd/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/alili/.gradle/caches/transforms-3/88fa5e00e9e9adaca94731b682d397b9/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/alili/.gradle/caches/transforms-3/d0ea5fd6eddd7a81914fa5fd029c97cd/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /home/alili/.gradle/caches/transforms-3/ce28e23891a950e17c6605cf401d9de4/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] /home/alili/.gradle/caches/transforms-3/2f929ae5c3663124904957f1419502c3/transformed/core-ktx-1.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.transition:transition:1.4.1] /home/alili/.gradle/caches/transforms-3/b59ccd096b7c94f97cf4aae8b9f77090/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] /home/alili/.gradle/caches/transforms-3/5072d05e15bd89ae6bff94385fe709dc/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /home/alili/.gradle/caches/transforms-3/8c89357bd186da6a13a43a8c842160f8/transformed/exifinterface-1.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/alili/.gradle/caches/transforms-3/77583a31f9aa7ae647037e0266a9feeb/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/alili/.gradle/caches/transforms-3/307573313aedeb2a5c7776694d414ef8/transformed/startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/alili/.gradle/caches/transforms-3/df6d9975839fd74af5c78042ca01b28d/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/alili/.gradle/caches/transforms-3/23cacf4ed6a0d37eec02679d130c71b9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/alili/.gradle/caches/transforms-3/aa5340a78563e63ba9eb0dc08cc67b93/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /home/alili/.gradle/caches/transforms-3/40fff365b45a5a95d75aac84a2da3ac5/transformed/lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/alili/.gradle/caches/transforms-3/9aa8c380adf09512d03fb59091b48f0f/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/alili/.gradle/caches/transforms-3/4285f3c44a92e0ec4036348db80dc9b4/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/alili/.gradle/caches/transforms-3/9671eee9a761779874670bb3f6cbf67d/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /home/alili/.gradle/caches/transforms-3/57a686a6483bf6319572d2f13453e137/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/alili/.gradle/caches/transforms-3/4b5dcad703b1a0021f1e95d2302da328/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/alili/.gradle/caches/transforms-3/379755bb2737dea615a3d0b0a20fe246/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/alili/.gradle/caches/transforms-3/e2d8c5d2fa5caa04b84d4dcd8510a367/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/alili/.gradle/caches/transforms-3/07c42a8757924a8269c63d75b5f67695/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/alili/.gradle/caches/transforms-3/a6dd8ebfa644f7b8cb2015644f99b5b3/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/alili/.gradle/caches/transforms-3/256a639127d8b0069b26d800c65ce8cc/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.4.0] /home/alili/.gradle/caches/transforms-3/42d6597c999c02a6006f3e4c6596e311/transformed/tensorflow-lite-task-base-0.4.0/AndroidManifest.xml:2:1-6:12
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.0] /home/alili/.gradle/caches/transforms-3/f56ae8e15045636968e00538747019c8/transformed/tensorflow-lite-support-api-0.4.0/AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] /home/alili/.gradle/caches/transforms-3/eb283336867df3e03488ddb2300d84c5/transformed/tensorflow-lite-api-2.8.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /home/alili/.gradle/caches/transforms-3/8da7fbe58cf36b19ecde11f133bb022e/transformed/image-1.0.0-beta1/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:5:5-63
+		INJECTED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:2:1-48:12
+		INJECTED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:4:5-51
+	xmlns:dist
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:3:5-61
+	android:versionCode
+		INJECTED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:2:1-48:12
+		INJECTED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:2:11-69
+dist:module
+ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:8:5-40
+	dist:instant
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:8:18-37
+uses-feature#android.hardware.camera
+ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:11:5-60
+	android:name
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:11:19-57
+uses-permission#android.permission.CAMERA
+ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:14:5-65
+	android:name
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:14:22-62
+application
+ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:16:5-46:19
+MERGED from [androidx.window:window:1.0.0] /home/alili/.gradle/caches/transforms-3/52cd914cc2f425a4b4c50c2d4b7999cc/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /home/alili/.gradle/caches/transforms-3/52cd914cc2f425a4b4c50c2d4b7999cc/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.material:material:1.6.1] /home/alili/.gradle/caches/transforms-3/50927a66dfb8fe910c4dee5bfe1ef325/transformed/material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] /home/alili/.gradle/caches/transforms-3/50927a66dfb8fe910c4dee5bfe1ef325/transformed/material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/alili/.gradle/caches/transforms-3/297366c2f72034b68692d6ea366ded29/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/alili/.gradle/caches/transforms-3/297366c2f72034b68692d6ea366ded29/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha04] /home/alili/.gradle/caches/transforms-3/fb6cb5e954ca92b7ac054747292eab24/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha04] /home/alili/.gradle/caches/transforms-3/fb6cb5e954ca92b7ac054747292eab24/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.2.0-alpha04] /home/alili/.gradle/caches/transforms-3/a37d35d8464561bf6ce4c0863e0df4c3/transformed/camera-core-1.2.0-alpha04/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.2.0-alpha04] /home/alili/.gradle/caches/transforms-3/a37d35d8464561bf6ce4c0863e0df4c3/transformed/camera-core-1.2.0-alpha04/AndroidManifest.xml:23:5-34:19
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.9.0] /home/alili/.gradle/caches/transforms-3/b88acec3a115f08df009a5f68554f8a0/transformed/tensorflow-lite-gpu-2.9.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.9.0] /home/alili/.gradle/caches/transforms-3/b88acec3a115f08df009a5f68554f8a0/transformed/tensorflow-lite-gpu-2.9.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu-delegate-plugin:0.4.0] /home/alili/.gradle/caches/transforms-3/8621cc70d751fd63c08993fb43fc651b/transformed/tensorflow-lite-gpu-delegate-plugin-0.4.0/AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-gpu-delegate-plugin:0.4.0] /home/alili/.gradle/caches/transforms-3/8621cc70d751fd63c08993fb43fc651b/transformed/tensorflow-lite-gpu-delegate-plugin-0.4.0/AndroidManifest.xml:4:4-5:18
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/alili/.gradle/caches/transforms-3/7b3b64ee0a075a0c11b63d4d7cc4f9dd/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/alili/.gradle/caches/transforms-3/7b3b64ee0a075a0c11b63d4d7cc4f9dd/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.8.0] /home/alili/.gradle/caches/transforms-3/5072d05e15bd89ae6bff94385fe709dc/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /home/alili/.gradle/caches/transforms-3/5072d05e15bd89ae6bff94385fe709dc/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/alili/.gradle/caches/transforms-3/77583a31f9aa7ae647037e0266a9feeb/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/alili/.gradle/caches/transforms-3/77583a31f9aa7ae647037e0266a9feeb/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/alili/.gradle/caches/transforms-3/307573313aedeb2a5c7776694d414ef8/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/alili/.gradle/caches/transforms-3/307573313aedeb2a5c7776694d414ef8/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/alili/.gradle/caches/transforms-3/23cacf4ed6a0d37eec02679d130c71b9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/alili/.gradle/caches/transforms-3/23cacf4ed6a0d37eec02679d130c71b9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.4.0] /home/alili/.gradle/caches/transforms-3/42d6597c999c02a6006f3e4c6596e311/transformed/tensorflow-lite-task-base-0.4.0/AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.4.0] /home/alili/.gradle/caches/transforms-3/42d6597c999c02a6006f3e4c6596e311/transformed/tensorflow-lite-task-base-0.4.0/AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] /home/alili/.gradle/caches/transforms-3/eb283336867df3e03488ddb2300d84c5/transformed/tensorflow-lite-api-2.8.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] /home/alili/.gradle/caches/transforms-3/eb283336867df3e03488ddb2300d84c5/transformed/tensorflow-lite-api-2.8.0/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /home/alili/.gradle/caches/transforms-3/8da7fbe58cf36b19ecde11f133bb022e/transformed/image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /home/alili/.gradle/caches/transforms-3/8da7fbe58cf36b19ecde11f133bb022e/transformed/image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /home/alili/.gradle/caches/transforms-3/5072d05e15bd89ae6bff94385fe709dc/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:19:9-41
+	tools:ignore
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:23:9-35
+	android:roundIcon
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:20:9-54
+	android:icon
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:17:9-35
+	android:taskAffinity
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:22:9-32
+activity#org.tensorflow.lite.examples.imageclassification.MainActivity
+ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:24:9-45:20
+	android:clearTaskOnLaunch
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:26:13-45
+	android:exported
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:28:13-36
+	android:resizeableActivity
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:29:13-46
+	android:rotationAnimation
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:30:13-49
+	android:configChanges
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:27:13-91
+	tools:targetApi
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:32:13-32
+	android:theme
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:31:13-44
+	android:name
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:25:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:35:13-39:29
+action#android.intent.action.MAIN
+ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:38:17-77
+	android:name
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:38:27-74
+meta-data#android.notch_support
+ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:42:13-44:40
+	android:value
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:44:17-37
+	android:name
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:43:17-53
+uses-sdk
+INJECTED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml
+INJECTED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.2.0] /home/alili/.gradle/caches/transforms-3/738593f136433df59cc577e06abf72b0/transformed/viewbinding-7.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.0] /home/alili/.gradle/caches/transforms-3/738593f136433df59cc577e06abf72b0/transformed/viewbinding-7.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.1] /home/alili/.gradle/caches/transforms-3/0e9d01f0f9c26989a187d7edec245162/transformed/navigation-fragment-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.1] /home/alili/.gradle/caches/transforms-3/0e9d01f0f9c26989a187d7edec245162/transformed/navigation-fragment-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.1] /home/alili/.gradle/caches/transforms-3/eacd7dcf557f4fb23c73f5f2f672faaf/transformed/navigation-fragment-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.1] /home/alili/.gradle/caches/transforms-3/eacd7dcf557f4fb23c73f5f2f672faaf/transformed/navigation-fragment-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.1] /home/alili/.gradle/caches/transforms-3/746d9642453eb3ece5b353d96eeeae15/transformed/fragment-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.1] /home/alili/.gradle/caches/transforms-3/746d9642453eb3ece5b353d96eeeae15/transformed/fragment-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.1] /home/alili/.gradle/caches/transforms-3/5e8dbd73821728748893b760d722ebf9/transformed/navigation-ui-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.1] /home/alili/.gradle/caches/transforms-3/5e8dbd73821728748893b760d722ebf9/transformed/navigation-ui-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] /home/alili/.gradle/caches/transforms-3/3f3ac6eb53465cd70238df57abc3a611/transformed/navigation-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] /home/alili/.gradle/caches/transforms-3/3f3ac6eb53465cd70238df57abc3a611/transformed/navigation-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.1] /home/alili/.gradle/caches/transforms-3/151d5e5096f833886f4ba7806fb697bc/transformed/navigation-ui-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.1] /home/alili/.gradle/caches/transforms-3/151d5e5096f833886f4ba7806fb697bc/transformed/navigation-ui-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] /home/alili/.gradle/caches/transforms-3/061214d475baa6a18b1c79d492b65365/transformed/navigation-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] /home/alili/.gradle/caches/transforms-3/061214d475baa6a18b1c79d492b65365/transformed/navigation-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] /home/alili/.gradle/caches/transforms-3/7860481a44310f4d250aa6fd4b3bffe5/transformed/activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] /home/alili/.gradle/caches/transforms-3/7860481a44310f4d250aa6fd4b3bffe5/transformed/activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] /home/alili/.gradle/caches/transforms-3/d9c2c1976f5bd253b85cd9c964949fff/transformed/navigation-common-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] /home/alili/.gradle/caches/transforms-3/d9c2c1976f5bd253b85cd9c964949fff/transformed/navigation-common-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.1] /home/alili/.gradle/caches/transforms-3/8137ea18800d74cbf619af36985a03de/transformed/navigation-common-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.1] /home/alili/.gradle/caches/transforms-3/8137ea18800d74cbf619af36985a03de/transformed/navigation-common-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /home/alili/.gradle/caches/transforms-3/0f58530315204866343d750c8ddea196/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /home/alili/.gradle/caches/transforms-3/0f58530315204866343d750c8ddea196/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /home/alili/.gradle/caches/transforms-3/d73abab973a26461b2e963116a2e5c0f/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /home/alili/.gradle/caches/transforms-3/d73abab973a26461b2e963116a2e5c0f/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/alili/.gradle/caches/transforms-3/996bdd5fc10ce7f2ea039c277ebee572/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/alili/.gradle/caches/transforms-3/996bdd5fc10ce7f2ea039c277ebee572/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /home/alili/.gradle/caches/transforms-3/52cd914cc2f425a4b4c50c2d4b7999cc/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /home/alili/.gradle/caches/transforms-3/52cd914cc2f425a4b4c50c2d4b7999cc/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] /home/alili/.gradle/caches/transforms-3/50927a66dfb8fe910c4dee5bfe1ef325/transformed/material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] /home/alili/.gradle/caches/transforms-3/50927a66dfb8fe910c4dee5bfe1ef325/transformed/material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/alili/.gradle/caches/transforms-3/297366c2f72034b68692d6ea366ded29/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/alili/.gradle/caches/transforms-3/297366c2f72034b68692d6ea366ded29/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.camera:camera-view:1.2.0-alpha04] /home/alili/.gradle/caches/transforms-3/902442785c2fdd01268319787e5049ec/transformed/camera-view-1.2.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-view:1.2.0-alpha04] /home/alili/.gradle/caches/transforms-3/902442785c2fdd01268319787e5049ec/transformed/camera-view-1.2.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.4.2] /home/alili/.gradle/caches/transforms-3/8613d932535912d8077d9b02eda48a60/transformed/appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] /home/alili/.gradle/caches/transforms-3/8613d932535912d8077d9b02eda48a60/transformed/appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/alili/.gradle/caches/transforms-3/2f2f3e3e9f2d7ac828157032b8a9f7c9/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/alili/.gradle/caches/transforms-3/2f2f3e3e9f2d7ac828157032b8a9f7c9/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] /home/alili/.gradle/caches/transforms-3/9af98c63f9f3ea53c05ec31d234f4e5f/transformed/fragment-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.1] /home/alili/.gradle/caches/transforms-3/9af98c63f9f3ea53c05ec31d234f4e5f/transformed/fragment-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /home/alili/.gradle/caches/transforms-3/9a052c8af8fb3d16bb001df734dfdc90/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /home/alili/.gradle/caches/transforms-3/9a052c8af8fb3d16bb001df734dfdc90/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/alili/.gradle/caches/transforms-3/c90060ddc521a9359fc84a557cd46457/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/alili/.gradle/caches/transforms-3/c90060ddc521a9359fc84a557cd46457/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/alili/.gradle/caches/transforms-3/4401f8a7c023e8142d1598331d04ce51/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/alili/.gradle/caches/transforms-3/4401f8a7c023e8142d1598331d04ce51/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/alili/.gradle/caches/transforms-3/f53b1d43efb0bb8c4b470d3f1aa2b44b/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/alili/.gradle/caches/transforms-3/f53b1d43efb0bb8c4b470d3f1aa2b44b/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/alili/.gradle/caches/transforms-3/5685306a038d33206d60edb6bb441474/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/alili/.gradle/caches/transforms-3/5685306a038d33206d60edb6bb441474/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/alili/.gradle/caches/transforms-3/503af92520fa785170f8e747896b6f2f/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/alili/.gradle/caches/transforms-3/503af92520fa785170f8e747896b6f2f/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha04] /home/alili/.gradle/caches/transforms-3/fb6cb5e954ca92b7ac054747292eab24/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-camera2:1.2.0-alpha04] /home/alili/.gradle/caches/transforms-3/fb6cb5e954ca92b7ac054747292eab24/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.2.0-alpha04] /home/alili/.gradle/caches/transforms-3/59566f1f3a3b5ecb5411b31fbb48530e/transformed/camera-lifecycle-1.2.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.2.0-alpha04] /home/alili/.gradle/caches/transforms-3/59566f1f3a3b5ecb5411b31fbb48530e/transformed/camera-lifecycle-1.2.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-core:1.2.0-alpha04] /home/alili/.gradle/caches/transforms-3/a37d35d8464561bf6ce4c0863e0df4c3/transformed/camera-core-1.2.0-alpha04/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-core:1.2.0-alpha04] /home/alili/.gradle/caches/transforms-3/a37d35d8464561bf6ce4c0863e0df4c3/transformed/camera-core-1.2.0-alpha04/AndroidManifest.xml:21:5-44
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.4.0] /home/alili/.gradle/caches/transforms-3/fd61e875437f41b4416cf7d66735a559/transformed/tensorflow-lite-task-vision-0.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.4.0] /home/alili/.gradle/caches/transforms-3/fd61e875437f41b4416cf7d66735a559/transformed/tensorflow-lite-task-vision-0.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.9.0] /home/alili/.gradle/caches/transforms-3/b88acec3a115f08df009a5f68554f8a0/transformed/tensorflow-lite-gpu-2.9.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.9.0] /home/alili/.gradle/caches/transforms-3/b88acec3a115f08df009a5f68554f8a0/transformed/tensorflow-lite-gpu-2.9.0/AndroidManifest.xml:7:5-8:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/alili/.gradle/caches/transforms-3/11c222b4c3fadb006eb9c5b5f05c4705/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/alili/.gradle/caches/transforms-3/11c222b4c3fadb006eb9c5b5f05c4705/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /home/alili/.gradle/caches/transforms-3/233417d1b522240b36d1a508e0a47822/transformed/appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /home/alili/.gradle/caches/transforms-3/233417d1b522240b36d1a508e0a47822/transformed/appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/alili/.gradle/caches/transforms-3/eccda38e86f4679b70b4a1b045b1e162/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/alili/.gradle/caches/transforms-3/eccda38e86f4679b70b4a1b045b1e162/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/alili/.gradle/caches/transforms-3/7b3b64ee0a075a0c11b63d4d7cc4f9dd/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/alili/.gradle/caches/transforms-3/7b3b64ee0a075a0c11b63d4d7cc4f9dd/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/alili/.gradle/caches/transforms-3/b96f5dc51af7bb3fb0707e954b7228d2/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/alili/.gradle/caches/transforms-3/b96f5dc51af7bb3fb0707e954b7228d2/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/alili/.gradle/caches/transforms-3/8417a89b4cbe724c8f5a685d4951f7e4/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/alili/.gradle/caches/transforms-3/8417a89b4cbe724c8f5a685d4951f7e4/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/alili/.gradle/caches/transforms-3/5669db469e701f7645193ddd75814edb/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/alili/.gradle/caches/transforms-3/5669db469e701f7645193ddd75814edb/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/alili/.gradle/caches/transforms-3/dbf7af0ea033ef22de12b35a8edc73a7/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/alili/.gradle/caches/transforms-3/dbf7af0ea033ef22de12b35a8edc73a7/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/alili/.gradle/caches/transforms-3/146dae087e6d7e493659da0a0c407abd/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/alili/.gradle/caches/transforms-3/146dae087e6d7e493659da0a0c407abd/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/alili/.gradle/caches/transforms-3/88fa5e00e9e9adaca94731b682d397b9/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/alili/.gradle/caches/transforms-3/88fa5e00e9e9adaca94731b682d397b9/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/alili/.gradle/caches/transforms-3/d0ea5fd6eddd7a81914fa5fd029c97cd/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/alili/.gradle/caches/transforms-3/d0ea5fd6eddd7a81914fa5fd029c97cd/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /home/alili/.gradle/caches/transforms-3/ce28e23891a950e17c6605cf401d9de4/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/alili/.gradle/caches/transforms-3/ce28e23891a950e17c6605cf401d9de4/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] /home/alili/.gradle/caches/transforms-3/2f929ae5c3663124904957f1419502c3/transformed/core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] /home/alili/.gradle/caches/transforms-3/2f929ae5c3663124904957f1419502c3/transformed/core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.transition:transition:1.4.1] /home/alili/.gradle/caches/transforms-3/b59ccd096b7c94f97cf4aae8b9f77090/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /home/alili/.gradle/caches/transforms-3/b59ccd096b7c94f97cf4aae8b9f77090/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /home/alili/.gradle/caches/transforms-3/5072d05e15bd89ae6bff94385fe709dc/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /home/alili/.gradle/caches/transforms-3/5072d05e15bd89ae6bff94385fe709dc/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /home/alili/.gradle/caches/transforms-3/8c89357bd186da6a13a43a8c842160f8/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /home/alili/.gradle/caches/transforms-3/8c89357bd186da6a13a43a8c842160f8/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/alili/.gradle/caches/transforms-3/77583a31f9aa7ae647037e0266a9feeb/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/alili/.gradle/caches/transforms-3/77583a31f9aa7ae647037e0266a9feeb/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/alili/.gradle/caches/transforms-3/307573313aedeb2a5c7776694d414ef8/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/alili/.gradle/caches/transforms-3/307573313aedeb2a5c7776694d414ef8/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/alili/.gradle/caches/transforms-3/df6d9975839fd74af5c78042ca01b28d/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/alili/.gradle/caches/transforms-3/df6d9975839fd74af5c78042ca01b28d/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/alili/.gradle/caches/transforms-3/23cacf4ed6a0d37eec02679d130c71b9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/alili/.gradle/caches/transforms-3/23cacf4ed6a0d37eec02679d130c71b9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/alili/.gradle/caches/transforms-3/aa5340a78563e63ba9eb0dc08cc67b93/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/alili/.gradle/caches/transforms-3/aa5340a78563e63ba9eb0dc08cc67b93/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /home/alili/.gradle/caches/transforms-3/40fff365b45a5a95d75aac84a2da3ac5/transformed/lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /home/alili/.gradle/caches/transforms-3/40fff365b45a5a95d75aac84a2da3ac5/transformed/lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/alili/.gradle/caches/transforms-3/9aa8c380adf09512d03fb59091b48f0f/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/alili/.gradle/caches/transforms-3/9aa8c380adf09512d03fb59091b48f0f/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/alili/.gradle/caches/transforms-3/4285f3c44a92e0ec4036348db80dc9b4/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/alili/.gradle/caches/transforms-3/4285f3c44a92e0ec4036348db80dc9b4/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/alili/.gradle/caches/transforms-3/9671eee9a761779874670bb3f6cbf67d/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/alili/.gradle/caches/transforms-3/9671eee9a761779874670bb3f6cbf67d/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /home/alili/.gradle/caches/transforms-3/57a686a6483bf6319572d2f13453e137/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /home/alili/.gradle/caches/transforms-3/57a686a6483bf6319572d2f13453e137/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/alili/.gradle/caches/transforms-3/4b5dcad703b1a0021f1e95d2302da328/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/alili/.gradle/caches/transforms-3/4b5dcad703b1a0021f1e95d2302da328/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/alili/.gradle/caches/transforms-3/379755bb2737dea615a3d0b0a20fe246/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/alili/.gradle/caches/transforms-3/379755bb2737dea615a3d0b0a20fe246/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/alili/.gradle/caches/transforms-3/e2d8c5d2fa5caa04b84d4dcd8510a367/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/alili/.gradle/caches/transforms-3/e2d8c5d2fa5caa04b84d4dcd8510a367/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/alili/.gradle/caches/transforms-3/07c42a8757924a8269c63d75b5f67695/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/alili/.gradle/caches/transforms-3/07c42a8757924a8269c63d75b5f67695/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/alili/.gradle/caches/transforms-3/a6dd8ebfa644f7b8cb2015644f99b5b3/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/alili/.gradle/caches/transforms-3/a6dd8ebfa644f7b8cb2015644f99b5b3/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/alili/.gradle/caches/transforms-3/256a639127d8b0069b26d800c65ce8cc/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/alili/.gradle/caches/transforms-3/256a639127d8b0069b26d800c65ce8cc/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.0] /home/alili/.gradle/caches/transforms-3/f56ae8e15045636968e00538747019c8/transformed/tensorflow-lite-support-api-0.4.0/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.0] /home/alili/.gradle/caches/transforms-3/f56ae8e15045636968e00538747019c8/transformed/tensorflow-lite-support-api-0.4.0/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] /home/alili/.gradle/caches/transforms-3/eb283336867df3e03488ddb2300d84c5/transformed/tensorflow-lite-api-2.8.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-api:2.8.0] /home/alili/.gradle/caches/transforms-3/eb283336867df3e03488ddb2300d84c5/transformed/tensorflow-lite-api-2.8.0/AndroidManifest.xml:7:5-8:41
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /home/alili/.gradle/caches/transforms-3/8da7fbe58cf36b19ecde11f133bb022e/transformed/image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /home/alili/.gradle/caches/transforms-3/8da7fbe58cf36b19ecde11f133bb022e/transformed/image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+INJECTED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml
+INJECTED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml
+		ADDED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml
+		MERGED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml
+		MERGED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] /home/alili/.gradle/caches/transforms-3/52cd914cc2f425a4b4c50c2d4b7999cc/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /home/alili/.gradle/caches/transforms-3/52cd914cc2f425a4b4c50c2d4b7999cc/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /home/alili/.gradle/caches/transforms-3/52cd914cc2f425a4b4c50c2d4b7999cc/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] /home/alili/.gradle/caches/transforms-3/52cd914cc2f425a4b4c50c2d4b7999cc/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /home/alili/.gradle/caches/transforms-3/52cd914cc2f425a4b4c50c2d4b7999cc/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /home/alili/.gradle/caches/transforms-3/52cd914cc2f425a4b4c50c2d4b7999cc/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] /home/alili/.gradle/caches/transforms-3/fb6cb5e954ca92b7ac054747292eab24/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:24:9-33:19
+MERGED from [androidx.camera:camera-core:1.2.0-alpha04] /home/alili/.gradle/caches/transforms-3/a37d35d8464561bf6ce4c0863e0df4c3/transformed/camera-core-1.2.0-alpha04/AndroidManifest.xml:29:9-33:78
+MERGED from [androidx.camera:camera-core:1.2.0-alpha04] /home/alili/.gradle/caches/transforms-3/a37d35d8464561bf6ce4c0863e0df4c3/transformed/camera-core-1.2.0-alpha04/AndroidManifest.xml:29:9-33:78
+	tools:node
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] /home/alili/.gradle/caches/transforms-3/fb6cb5e954ca92b7ac054747292eab24/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:29:13-31
+	android:enabled
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] /home/alili/.gradle/caches/transforms-3/fb6cb5e954ca92b7ac054747292eab24/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:26:13-36
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] /home/alili/.gradle/caches/transforms-3/fb6cb5e954ca92b7ac054747292eab24/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] /home/alili/.gradle/caches/transforms-3/fb6cb5e954ca92b7ac054747292eab24/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:28:13-75
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] /home/alili/.gradle/caches/transforms-3/fb6cb5e954ca92b7ac054747292eab24/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:25:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] /home/alili/.gradle/caches/transforms-3/fb6cb5e954ca92b7ac054747292eab24/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:30:13-32:89
+	android:value
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] /home/alili/.gradle/caches/transforms-3/fb6cb5e954ca92b7ac054747292eab24/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:32:17-86
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.2.0-alpha04] /home/alili/.gradle/caches/transforms-3/fb6cb5e954ca92b7ac054747292eab24/transformed/camera-camera2-1.2.0-alpha04/AndroidManifest.xml:31:17-103
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:2:1-48:12 reason: tensorflow_lite_support.acceleration.configuration has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:2:1-48:12 reason: tensorflow_lite_support.acceleration.configuration has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/alili/AndroidStudioProjects/examples-master/lite/examples/image_classification/android_java/app/src/main/AndroidManifest.xml:2:1-48:12 reason: tensorflow_lite_support.acceleration.configuration requested WRITE_EXTERNAL_STORAGE
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/alili/.gradle/caches/transforms-3/7b3b64ee0a075a0c11b63d4d7cc4f9dd/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/alili/.gradle/caches/transforms-3/77583a31f9aa7ae647037e0266a9feeb/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/alili/.gradle/caches/transforms-3/77583a31f9aa7ae647037e0266a9feeb/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/alili/.gradle/caches/transforms-3/307573313aedeb2a5c7776694d414ef8/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/alili/.gradle/caches/transforms-3/307573313aedeb2a5c7776694d414ef8/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/alili/.gradle/caches/transforms-3/7b3b64ee0a075a0c11b63d4d7cc4f9dd/transformed/emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/alili/.gradle/caches/transforms-3/7b3b64ee0a075a0c11b63d4d7cc4f9dd/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/alili/.gradle/caches/transforms-3/7b3b64ee0a075a0c11b63d4d7cc4f9dd/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/alili/.gradle/caches/transforms-3/7b3b64ee0a075a0c11b63d4d7cc4f9dd/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/alili/.gradle/caches/transforms-3/7b3b64ee0a075a0c11b63d4d7cc4f9dd/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/alili/.gradle/caches/transforms-3/7b3b64ee0a075a0c11b63d4d7cc4f9dd/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/alili/.gradle/caches/transforms-3/7b3b64ee0a075a0c11b63d4d7cc4f9dd/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/alili/.gradle/caches/transforms-3/77583a31f9aa7ae647037e0266a9feeb/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/alili/.gradle/caches/transforms-3/77583a31f9aa7ae647037e0266a9feeb/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/alili/.gradle/caches/transforms-3/77583a31f9aa7ae647037e0266a9feeb/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
